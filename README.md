@@ -1,4 +1,6 @@
-# Ilya ZLobin
+# Ilya Zlobin
+
+### `Frontend Developer`
 
 ### Contacts
   [<img height="50" src="https://image.flaticon.com/icons/png/512/732/732200.png">](mailto:qwertin1998@gmail.com)
