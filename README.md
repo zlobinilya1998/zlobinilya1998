@@ -1,8 +1,8 @@
 ### `Frontend Developer`
 
 ### Contacts
-  [<img height="50" src="https://image.flaticon.com/icons/png/512/732/732200.png">](mailto:qwertin1998@gmail.com)
-  [<img height="50" src="https://image.flaticon.com/icons/png/512/2111/2111646.png">](https://t.me/zlobinilya)
+  [<img height="30" src="https://image.flaticon.com/icons/png/512/732/732200.png">](mailto:qwertin1998@gmail.com)
+  [<img height="30" src="https://image.flaticon.com/icons/png/512/2111/2111646.png">](https://t.me/zlobinilya)
 <p></p>
 
 ### Main languages and tools
