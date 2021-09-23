@@ -1,5 +1,3 @@
-# Ilya Zlobin
-
 ### `Frontend Developer`
 
 ### Contacts
